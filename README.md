@@ -6,9 +6,9 @@ This project consists of using the different Machine Learning techniques with th
 
 ## Content:
 
-- attrition_available_12.pkl: data set in pickle format.
-- Practica2.ipynb: EDA, hyperparameter setting, model selection... The notebook has explanations of the processes, analysis of the results, justifications of the decisions using tables and graphs and loads the final model and use it to make predictions.
-- modelo_final.pkl: is the file that contains the final model.
+- `attrition_available_12.pkl`: data set in pickle format.
+- `Practica2.ipynb`: EDA, hyperparameter setting, model selection... The notebook has explanations of the processes, analysis of the results, justifications of the decisions using tables and graphs and loads the final model and use it to make predictions.
+- `modelo_final.pkl`: is the file that contains the final model.
 
 ## Technologies:
 
